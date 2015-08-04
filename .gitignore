@@ -14,3 +14,9 @@
 # Ignore all logfiles and tempfiles.
 /log/*.log
 /tmp
+
+
+# I added this:
+# Ignore idea folder & DS_Store
+.idea
+.DS_Store
